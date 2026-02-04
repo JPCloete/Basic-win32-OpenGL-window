@@ -1,3 +1,2 @@
-This is a low level c++ game engine in the works. 
-The engine uses Data-oriented design patterns and the goal is to minimize the use of libraries(e.g c++ standard lib)
-The only libraries in use are OpenGL and the win32 API.
+This is a low level implementation of OpenGL using the Win32 API. 
+The program uses Data-oriented design patterns with the goal to minimize the use of libraries(e.g. C++ standard library) to implement low-level data structures for learning purposes
